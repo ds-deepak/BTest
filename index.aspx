@@ -1,2 +1,3 @@
 <doctype !>
-<new tag>
+<title>
+<html>
